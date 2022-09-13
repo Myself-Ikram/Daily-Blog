@@ -1,5 +1,5 @@
 # Daily-Blog
-A Blog which consists of posts. You can add posts daily through "/compose" route. This will redirect to home page and your new post would be added to home page.
+A simple Bolg page where you can add daily posts
 
 ->This website is created using HTML,CSS and Bootstrap as FrontEnd and NodeJs/ExpressJs & Ejs,MongoDB/Mongoose as BackEnd.
 
