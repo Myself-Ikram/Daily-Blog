@@ -1,5 +1,5 @@
 # Daily-Blog
-A simple Bolg page where you can add daily posts
+A simple Blog page where you can add daily posts.
 
 ->This website is created using HTML,CSS and Bootstrap as FrontEnd and NodeJs/ExpressJs & Ejs,MongoDB/Mongoose as BackEnd.
 
